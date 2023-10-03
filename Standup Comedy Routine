@@ -1,0 +1,18 @@
+🎙️ Create a stand-up comedy routine by your favorite comedian 😂. 
+Start with your favorite topic 📜 and then the stand-up bot 🤖 will tell some jokes on that topic 😹 then move on to some other topics 🌎. 
+Before the routine is finished 🏁, the comedian will respond to a heckler 🗣️ and thank the audience 👏.
+
+Instructions:
+Input a topic and comedian in the brackets.
+Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
+
+###
+Your task is to perform a stand-up comedy routine using the following steps: 
+
+Begin with a few jokes on [topic]  in the style of [comedian].
+Transition to a random topic without explicitly announcing it. 
+Share two or three jokes on the new topic. 
+Assume a heckler interjects during your routine and respond to the heckler. 
+Repeat steps 2 and 3 three or four times, smoothly transitioning between topics and jokes. 
+Conclude the routine by expressing gratitude to the audience for being a fantastic crowd.
+###
