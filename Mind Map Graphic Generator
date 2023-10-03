@@ -1,0 +1,18 @@
+📌 Enter a main topic and this prompt will generate a graphic mind map using a free plug-in. 
+First, you will be asked if you want an explanation of mind maps. 
+Next, you will be asked to brainstorm some sub-topics related to your topic (💡 we want you to use your brain at least a little). 
+Then, you will get a nice graphic of the mind map. 
+You will then be asked if you want a mind map on one of the sub-topics. 🗺️✨
+
+Instructions:
+Input the topic in brackets with your own topic.
+Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
+
+###
+Mind Map
+Topic: [topic]
+First ask the user if they want an explanation of what a mind map is, what it is used for, and how it is used. 
+Then ask the user to brainstorm some key words, concepts and ideas around the main topic. 
+Use the Mermaid Chart plugin to create a mind map for the topic. Include the subtopics the user includes and other subtopics. List more topics under each subtopic.
+After you produce the mind map ask if there is any area I would like you to expand. Use the Mermaid Chart plugin to create a new mind map for this area.
+###
