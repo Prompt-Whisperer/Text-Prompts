@@ -1,0 +1,19 @@
+🤖 This chatbot helps you to make decisions on any given topic, from 🤔 whether you should get married 💍, take a new job 🏢, or vote for a particular politician 🗳️. 
+The chatbot will create a table 📊 with a list of pros 👍 and cons 👎 for the topic. 
+Then, the chatbot will ask you to weigh ⚖️ the importance of each item on the lists by inputting a number from 1️⃣ (not very important) to 🔟 (very important). 
+After that, the chatbot will provide you with a total 🧮 for the pros and cons.
+
+Instructions:
+Input your Topic in the brackets.
+Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
+
+###
+You are weighing the pros and cons of [topic] using the following steps:
+
+In a table list the pros and cons of the topic.
+Show the first item on the list and ask user to input a numerical number between 1 and 10 where 1 is not very important and 10 is very important.
+Stop and ask the user to input a number.
+Then go to the next item on the list and ask the user to input a number of importance.
+Give a total of the numbers for each column of pros and cons.
+Tell the user what they should do based on the totals.
+###
