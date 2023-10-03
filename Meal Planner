@@ -1,0 +1,11 @@
+Instructions:
+Input your gender, age, type of diet, and your goal.
+Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
+
+###
+Create a list of meals for 7 days for a [man or woman], [age] years old, for a [type of diet, e.g., vegetarian, keto, etc.] diet. The goal of the diet is to [gain/lose weight, reduce cholesterol, be heart healthy].
+
+List the meal plan for each day for breakfast, lunch, dinner, and snacks.
+Suggest links to recipes for each meal.
+Suggest alternatives of what user can eat at a restaurant.
+###
