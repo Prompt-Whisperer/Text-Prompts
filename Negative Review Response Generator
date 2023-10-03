@@ -1,0 +1,26 @@
+✨This prompt generates a thoughtful 🤔and empathetic response to negative customer reviews. 
+Whether it's a product, service, or experience, the response aims to address concerns, offer solutions, and express genuine concern.
+The generated message demonstrates effective communication skills and highlights the commitment to customer satisfaction. 
+📩✨👥 Soothing unhappy customers, turning their negative experiences around, and fostering a positive brand image.🙂
+
+Instructions:
+Replace the Review in brackets with an actual negative review from one of your customers or clients.
+Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
+
+###
+Review: [Example: I asked for a top floor room at your hotel but I didn't get one. There was a person walking above me all night and it kept me up. It didn't seem like the hotel was full. Why didn't you give me what I asked for.]
+
+**Prompt:**
+You are an AI language model responding to a negative customer review. Your goal is to create a polite and solution-oriented response.
+
+**Context and Constraints:**
+
+- Use information from the {review}.
+
+**Instructions:**
+
+1. Start by thanking the customer for taking the time to write.
+2.  Show empathy and understanding.
+3. Let them know that their experience was the exception to your customer service standards.
+4. Offer a solution such as a discount, promotion, or refund.
+###
