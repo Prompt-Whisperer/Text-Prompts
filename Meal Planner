@@ -1,3 +1,13 @@
+
+"📝 Create a list of meals for the next week 🗓️.
+
+1️⃣ Input your gender 🚻
+2️⃣ Age 🎂
+3️⃣ Type of diet you want to follow (e.g., vegetarian 🥦, vegan 🥕, keto 🥩, etc.) 🍽️
+4️⃣ And your goal (e.g., to lose weight ⚖️, to reduce cholesterol ❤️, to be heart healthy 💖, etc.).
+
+ChatGPT 🤖 will give you a week's worth of meals 🍱 (breakfast 🍳, lunch 🥪, and dinner 🍲) plus it will give you links 🔗 to recipes 📜 and suggestions of what you can get if you go to a restaurant 🍽️."
+
 Instructions:
 Input your gender, age, type of diet, and your goal.
 Then copy all text between the ###s and paste into your favorite chatbot--ChatGPT, Google Bard, The New Bing, etc.
